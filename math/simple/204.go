@@ -8,7 +8,6 @@ func main(){
 func countPrimes(n int) int {
 
 
-
 	var c int
 
 	if n<=2{
